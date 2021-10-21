@@ -3,4 +3,5 @@ export default [
   { title: "Bio", text: "Bio" },
   { title: "Gallery", text: "Gallery" },
   { title: "Pizza", text: "Pizza!" },
+  { title: "Order", text: "Order" },
 ];
